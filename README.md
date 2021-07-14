@@ -9,7 +9,7 @@ The reading group consists of a weekly meeting and a mailing list. Please subscr
 
 ### Guideline:
 
-Starting from third week, all members are __REQUIRED__ to take on administrative duties and act as the weekly group hero IN TURNS to help organize the weekly meetings. Specifically, The weekly group hero will help check the quality of the papers proposed by presenting members. He or she will also send out emails with the abstract information and the pdf files of the papers that will be presented before the weekly meetings.
+Starting from third week, all members are __REQUIRED__ to take on administrative duties and act as the weekly group hero __IN TURNS__ to help organize the weekly meetings. Specifically, The weekly group hero will help check the quality of the papers proposed by presenting members. He or she will also send out emails with the abstract information and the pdf files of the papers that will be presented before the weekly meetings.
 
 --------------------
 
