@@ -16,6 +16,8 @@ Starting from third week, all members are __REQUIRED__ to take on administrative
 * __The weekly group hero should send out emails to participatiants before the weekly meetings.__
 * __The weekly group hero should send out the preparatory readings, videos, and/or PowerPoint slides as early as he/she can (by late Wednesday at the latest).__
 
+
+Note: If you are asked to be a Weekly group hero on a week you will be unable to fulfill the responsibilities, let group know as soon as possible so someone else can be assigned.
 --------------------
 
 ## Schedule:
