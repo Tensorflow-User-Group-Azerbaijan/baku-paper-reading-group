@@ -9,22 +9,19 @@ The reading group consists of a weekly meeting and a mailing list. Please subscr
 
 ## Guideline:
 
-### 1. All group members
 
+Starting from third week, all members are __REQUIRED__ to take on administrative duties and be assigned group roles __IN TURNS__ to help organize the weekly meetings. Suggested roles:
+The weekly group hero: to help check the quality of the week's presentation, and to help monitor the discussion and deepen the conversation.
 
-### 2. The weekly group hero
+Investigators. Gather background information, the preparatory readings, videos, and/or PowerPoint slides related to the paper and send them to the group as early as they can (by late Wednesday at the latest).
 
-Starting from third week, all members are __REQUIRED__ to take on administrative duties and act as the weekly group hero __IN TURNS__ to help organize the weekly meetings. The main duties of Weekly group hero is:
+Code Practitioners. They implement a small part or simplified version of the paper on a small dataset or toy problem. Prepare to share the core code of the algorithm to the group and try to explain it. 
 
-* __The weekly group hero should help check the quality of the week's presentation.__
-* __The weekly group hero should help monitor the discussion and deepen the conversation.__
-* __The weekly group hero should try to find appropriate paper suggestions and send them out to participatiants before the weekly meetings.__
-* __The weekly group hero should send out the preparatory readings, videos, and/or PowerPoint slides as early as he/she can (by late Wednesday at the latest).__
-* __The weekly group hero should ask other members to write down at least two questions related to the week's paper. (by late Friday at the latest).__
+Summarizers: They prepare a 3 to 5 minute summary of the paper and pick 1 or 2 passages that they think are great and merit further discussion.
 
-### 3. Presenter
+* Note: __If Investigators have not posted by Wednesday please be proactive and begin a new thread to get the conversation rolling.__
 
-Note: If you are asked to be a Weekly group hero on a week and you will be unable to fulfill the responsibilities, let group know as soon as possible so someone else can be assigned.
+Note: If you are asked to be an any role on a week and you will be unable to fulfill the responsibilities, let group know as soon as possible so someone else can be assigned.
 
 --------------------
 
