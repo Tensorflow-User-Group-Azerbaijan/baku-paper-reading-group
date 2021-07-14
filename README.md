@@ -9,15 +9,23 @@ The reading group consists of a weekly meeting and a mailing list. Please subscr
 
 ## Guideline:
 
+### 1. All group members
+
+
+### 2. The weekly group hero
+
 Starting from third week, all members are __REQUIRED__ to take on administrative duties and act as the weekly group hero __IN TURNS__ to help organize the weekly meetings. The main duties of Weekly group hero is:
 
 * __The weekly group hero should help check the quality of the week's presentation.__
 * __The weekly group hero should help monitor the discussion and deepen the conversation.__
-* __The weekly group hero should send out emails to participatiants before the weekly meetings.__
+* __The weekly group hero should try to find appropriate paper suggestions and send them out to participatiants before the weekly meetings.__
 * __The weekly group hero should send out the preparatory readings, videos, and/or PowerPoint slides as early as he/she can (by late Wednesday at the latest).__
+* __The weekly group hero should ask other members to write down at least two questions related to the week's paper. (by late Friday at the latest).__
 
+### 3. Presenter
 
-Note: If you are asked to be a Weekly group hero on a week you will be unable to fulfill the responsibilities, let group know as soon as possible so someone else can be assigned.
+Note: If you are asked to be a Weekly group hero on a week and you will be unable to fulfill the responsibilities, let group know as soon as possible so someone else can be assigned.
+
 --------------------
 
 ## Schedule:
