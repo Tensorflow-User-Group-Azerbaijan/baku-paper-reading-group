@@ -2,7 +2,7 @@
 
 The purpose of the group is to provide a platform for intellectual discussions on latest topics in machine learning. We welcome all passionate machine learning developers, researchers, students to participate. Each week we will discuss a different paper. The paper to discuss is announced about one week in advance by the organizer. All participants are expected to read the paper before the meeting. 
 
-Meetings (usually) will take place on Sundays at 19:00 on Zoom and some paper discussions can be shared on Youtube. The discussion is limited to 1.5 hour.
+Meetings (usually) will take place on Sundays at 19:00 on Zoom and some paper discussions can be shared on Youtube. The discussion is limited to 1.5 hour. We may adjust the meeting frequencies as needed.
 
 The reading group consists of a weekly meeting and a mailing list. Please subscribe our mailing list at [this](will be added) link. When registering the mailing list, please use your primary email.
 
@@ -15,13 +15,14 @@ Neither the classic lecture-assignment format nor the standard one-to-many paper
 
 This fairly lightweight structure avoids awkward silences and boring tangents, since it gives a chance to get to everyone’s contribution during meeting time. Suggested roles:
 
-* __The weekly group hero__: Help check the quality of the week's presentation, talk with presenter regularly and monitor the discussion and deepen the conversation during the meeting.
+* __The weekly group hero__: Help check the quality of the week's presentation, talk with presenter regularly, ask role-free group members to provide 2 questions related to paper, monitor the discussion and deepen the conversation during the meeting.
 
 * __Investigators__: Gather background information, the preparatory readings, videos, and/or PowerPoint slides related to the paper and send them to the group as early as they can (by late Wednesday at the latest).
 
 * __Code Practitioners__: They implement a small part or simplified version of the paper on a small dataset or toy problem. Prepare to share the core code of the algorithm to the group and try to explain it. 
 
 * __Summarizers__: They prepare a 3 to 5 minute summary of the paper and pick 1 or 2 passages that they think are great and merit further discussion.
+* __Other members__: They read papers in detail and provide minumum two questions to ask in meeting. They also should be ready for discussion.
 
 __Note: If Investigators have not posted by Wednesday please be proactive and begin a new thread to get the conversation rolling.__
 
