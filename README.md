@@ -10,18 +10,18 @@ The reading group consists of a weekly meeting and a mailing list. Please subscr
 ## Guideline:
 
 
-Starting from third week, all members are __REQUIRED__ to take on administrative duties and be assigned group roles __IN TURNS__ to help organize the weekly meetings. Suggested roles:
-The weekly group hero: to help check the quality of the week's presentation, and to help monitor the discussion and deepen the conversation.
+Starting from third week, all members are __REQUIRED__ to take on duties and be assigned group roles __IN TURNS__ to help organize the weekly meetings. Suggested roles:
 
-Investigators. Gather background information, the preparatory readings, videos, and/or PowerPoint slides related to the paper and send them to the group as early as they can (by late Wednesday at the latest).
+* __The weekly group hero__: Help check the quality of the week's presentation, talk with presenter regularly and monitor the discussion and deepen the conversation during the meeting.
 
-Code Practitioners. They implement a small part or simplified version of the paper on a small dataset or toy problem. Prepare to share the core code of the algorithm to the group and try to explain it. 
+* __Investigators__: Gather background information, the preparatory readings, videos, and/or PowerPoint slides related to the paper and send them to the group as early as they can (by late Wednesday at the latest).
 
-Summarizers: They prepare a 3 to 5 minute summary of the paper and pick 1 or 2 passages that they think are great and merit further discussion.
+* __Code Practitioners__: They implement a small part or simplified version of the paper on a small dataset or toy problem. Prepare to share the core code of the algorithm to the group and try to explain it. 
 
-* Note: __If Investigators have not posted by Wednesday please be proactive and begin a new thread to get the conversation rolling.__
+* __Summarizers__: They prepare a 3 to 5 minute summary of the paper and pick 1 or 2 passages that they think are great and merit further discussion.
 
-Note: If you are asked to be an any role on a week and you will be unable to fulfill the responsibilities, let group know as soon as possible so someone else can be assigned.
+__Note: If Investigators have not posted by Wednesday please be proactive and begin a new thread to get the conversation rolling.__
+__Note: If you are asked to be an any role on a week and you will be unable to fulfill the responsibilities, let group know as soon as possible so someone else can be assigned.__
 
 --------------------
 
