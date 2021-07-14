@@ -7,14 +7,15 @@ Meetings (usually) will take place on Sundays at 19:00 on Zoom and some paper di
 The reading group consists of a weekly meeting and a mailing list. Please subscribe our mailing list at [this](will be added) link. When registering the mailing list, please use your Purdue email. Non-Purdue emails will be rejected.
 
 
-### Guideline:
+## Guideline:
 
 Starting from third week, all members are __REQUIRED__ to take on administrative duties and act as the weekly group hero __IN TURNS__ to help organize the weekly meetings. The main duties of Weekly group hero is:
 
-The weekly group hero should help check the quality of the papers proposed by presenters. 
-The weekly group hero should help monitor the discussion and deepen the conversation.
-The weekly group hero should send out emails to participatiants before the weekly meetings.
-The weekly group hero should send out the preparatory readings, videos, and/or PowerPoint slides as early as he/she can -- by late Wednesday at the latest.
+* __The weekly group hero should help check the quality of the presentation propesed by presenter.__
+
+* __The weekly group hero should help monitor the discussion and deepen the conversation.__
+* __The weekly group hero should send out emails to participatiants before the weekly meetings.__
+* __The weekly group hero should send out the preparatory readings, videos, and/or PowerPoint slides as early as he/she can (by late Wednesday at the latest).__
 
 --------------------
 
